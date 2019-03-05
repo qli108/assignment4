@@ -1,0 +1,21 @@
+@font-face { font-family: flashlight; src: url('../fonts/flashlight.ttf'); } 
+
+body{
+	background-color: lightblue;
+}
+
+h1{
+	background-color:white;
+	color:lightblue;
+	font-family: flashlight;
+	font-size: 100px;
+	text-align: center;
+}
+
+svg.icon{
+	fill:white;
+	width:250px;
+	height:250px;
+
+}
+
